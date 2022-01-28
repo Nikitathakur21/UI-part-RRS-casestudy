@@ -1,0 +1,11 @@
+
+.mat-toolbar.mat-primary{
+    background:hsl(0, 67%, 33%);
+    color: #fff;
+    
+}
+
+.spacer{
+    flex: 1 1 auto;
+    
+}
